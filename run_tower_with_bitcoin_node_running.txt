@@ -1,0 +1,5 @@
+arsalan@arsalan-IdeaPad-Gaming3-15ARH05D:~$ teosd
+Loading configuration from file
+2022-04-18T05:27:33.800Z INFO [teosd] tower_id: 025a9c4eda0e4f214821ae466aee08b0caa7b847f02965d97a4136a681edc01bc4
+2022-04-18T05:27:33.905Z ERROR [teosd] Failed to connect to bitcoind client: Loading block index...
+
